@@ -1,6 +1,6 @@
 # ideatify-tufte-jekyll
 
-This is a gem based on a slighly modified version of this [tufte-jekyll](https://github.com/clayh53/tufte-jekyll) created by [clay53][https://github.com/clayh53]. 
+This is a gem based on a slighly modified version of this [tufte-jekyll](https://github.com/clayh53/tufte-jekyll) created by [clay53](https://github.com/clayh53). 
 
 ## Installation
 
